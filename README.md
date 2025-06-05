@@ -8,7 +8,7 @@ HTML • CSS • JavaScript • React • Node.js
 ## 📌 Folder Structure
 tasks/
 navbar/
-Soham-navbar.html
+Nikhil-navbar.html
 login-page/
 Priya-login-form.js
 
